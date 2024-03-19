@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vijay Giduthuri</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vijay+Giduthuri!;" />
+</h1>
+<div align="center"> <img src="https://github.com/vijaygiduthuri/vijaygiduthuri/blob/main/banner.png"> </div>
+<h3 align="center">A Passionate DevOps Engineer From India</h3>
 <img align="center" alt="Coding" width="700" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
