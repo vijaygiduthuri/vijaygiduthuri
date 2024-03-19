@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **DevOPs**
+- 🤝 I’m looking for help with **DevOps**
 
 - 👨‍💻 All of my projects are available at [www.youtube.com/@vijaygiduthuri67](www.youtube.com/@vijaygiduthuri67)
 
